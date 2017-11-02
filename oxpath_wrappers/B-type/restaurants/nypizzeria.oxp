@@ -1,0 +1,1 @@
+doc('http://nypizzeria.com/locations')/.:<data_area>//div[contains(@class,'results_entry')]:<record>[? .//span[@class='slp_result_address slp_result_phone']/text():<phone_raw=string(.)> ][? .//span[@class='slp_result_address slp_result_street']/text():<street_address_raw=string(.)> ]

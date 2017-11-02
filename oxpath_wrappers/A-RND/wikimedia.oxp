@@ -1,0 +1,1 @@
+doc('https://commons.wikimedia.org/wiki/Category:November_1929') //input[@id='searchInput']/{"@@search@@" /} //div[@class='suggestions']/div/a/div:<title=normalize-space(.)>

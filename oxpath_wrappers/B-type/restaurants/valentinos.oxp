@@ -1,0 +1,1 @@
+doc('http://valentinos.com/locations/?pn=all')/.:<data_area>//div[@class='location_container']:<record>[? .//div[@class='float_left hours']/p[2]:<opening_hours_raw=string(.)> ]

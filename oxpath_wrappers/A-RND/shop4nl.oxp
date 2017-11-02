@@ -1,0 +1,1 @@
+doc('http://www.shop4nl.com/drama-tv-dvd/the-vampire-diaries-season-6-dvd') //input[@id='sitesearch']/{"@@search@@" /} //input[@id='search_button']/{click /} //div[@id='main']/div[@class='product4block']:<item> [.//div[@class='product4text']/a:<title=normalize-space(.)>] [.//div[@class='price']:<price=normalize-space(.)>]

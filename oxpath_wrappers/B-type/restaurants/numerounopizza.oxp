@@ -1,0 +1,1 @@
+doc('http://numerounopizza.com/locations/')/.:<data_area>//h5:<record> [? ./strong/text():<state_raw=string(.)> ][? ./text()[contains(string(.),'Ph:')]:<phone_raw=string(.)> ][? ./strong/text():<locality_raw=string(.)> ][? ./span/text()[1]:<street_address_raw=string(.)> ][? .:<location_raw=string(.)> ]

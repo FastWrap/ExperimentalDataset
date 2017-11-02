@@ -1,0 +1,1 @@
+doc('http://hobees.com/locations/')//div[contains(@class,'entry-content-wrapper')]:<data_area>//div[contains(@class,'avia_textblock')]:<record>[? ./p[1]/br/following-sibling::text():<locality_raw=string(.)> ][? ./p[2]/strong/text():<phone=normalize-space(string(.))> ][? ./p[3]/a/@href:<order_link=normalize-space(string(.))> ]

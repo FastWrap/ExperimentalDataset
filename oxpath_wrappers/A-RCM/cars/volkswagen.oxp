@@ -1,0 +1,1 @@
+doc('http://www.volkswagen.co.uk/find-a-retailer')//input[contains(@class, 'find-retailer-location-search__input')]/{"@@SEARCH@@" /}//button[contains(@class, 'find-retailer-location-search__search')]/{click /}//div[contains(@class, 'find-retailer-summary-card__main')]:<result>[./div[1]/h2/a/text()[1]:<name=normalize-space(.)>]

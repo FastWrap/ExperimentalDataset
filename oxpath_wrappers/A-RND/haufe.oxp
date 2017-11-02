@@ -1,0 +1,1 @@
+doc('https://www.haufe.de/arbeitsschutz/gesundheit-umwelt/laermschutz-beim-musikhoeren-je-lauter-desto-kuerzer_94_271102.html') //form[@id='searchForm']/fieldset/input[2]/{"@@search@@"}/{pressenter [wait=3]/} //article[@class='article-list-item']/a/header:<title=normalize-space(.)>

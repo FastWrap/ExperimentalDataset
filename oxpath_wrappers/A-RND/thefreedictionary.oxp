@@ -1,0 +1,1 @@
+doc('http://el.thefreedictionary.com/%CE%B5%CF%81%CE%B5%CE%B8%CE%B9%CF%83%CE%B9%CF%84%CE%B9%CE%BA%CF%8C%CF%82') //input[@id='f1Word']/{"@@search@@"/} //div[@class='sayt']/div/a[1]:<suggestion=normalize-space(.)>

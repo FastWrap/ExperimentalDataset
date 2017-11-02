@@ -1,0 +1,1 @@
+doc('http://www.poshtots.com/custom-shop/fabric-by-material/minky-plush/mint-check-fabric-by-the-yard/2708/4183/3873/23876/poshproductdetail.aspx') //input[@id='ctl00_header_txtSearch']/{"@@search@@" /} //div[@id='searchbutton']/{click /} //div[@id='category_zone_1']/div[1]/ul/li:<item> [./div[2]/a:<title=normalize-space(.)>] [./div[3]:<price=normalize-space(.)>]

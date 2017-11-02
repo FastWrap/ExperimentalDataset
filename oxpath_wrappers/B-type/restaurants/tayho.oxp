@@ -1,0 +1,1 @@
+doc('http://www.tayho.com/web/en/infomation/locations.html')/.:<data_area>//td[contains(.,'Tel:')]:<record> [? ./text()[contains(string(.),'Tel:')]:<phone_raw=string(.)> ][? ./span/following-sibling::text()[last()-1]:<locality_raw=string(.)> ]

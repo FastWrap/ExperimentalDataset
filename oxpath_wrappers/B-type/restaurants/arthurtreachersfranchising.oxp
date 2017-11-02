@@ -1,0 +1,1 @@
+doc('http://www.arthurtreachersfranchising.com/locations.php')/.:<data_area>//div[@id='main-text']/p:<record> [? .:<locality_raw=string(.)> ]

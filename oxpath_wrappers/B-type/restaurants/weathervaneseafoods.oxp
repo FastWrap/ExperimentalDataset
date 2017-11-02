@@ -1,0 +1,1 @@
+doc('https://weathervaneseafoods.com/locations/')/.:<data_area>//ul/li[contains(@class,'location')]:<record> [? .//@href:<detail_link_raw=string(.)> ] [? .:<location_raw=string(.)> ]

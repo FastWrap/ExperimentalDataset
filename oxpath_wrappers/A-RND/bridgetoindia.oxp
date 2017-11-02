@@ -1,0 +1,1 @@
+doc('http://www.bridgetoindia.com/blog/india-issues-a-credible-draft-of-mini-and-micro-grid-policy/') //input[@id='s']/{"@@search@@" /} //form[@class='searchform']/input[@type='submit']/{click /} //section[@id='poststoincludedata']/article:<item> [./div/div/div[1]/header/h2/a:<title=normalize-space(.)>]

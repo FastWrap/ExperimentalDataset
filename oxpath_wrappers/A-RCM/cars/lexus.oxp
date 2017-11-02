@@ -1,0 +1,1 @@
+doc('http://www.lexus.fr/forms/find-a-retailer')//div[@class='form-control__item__postcode']/input/{"@@city@@"/}//div[@class='form-control__item__postcode']/button/{click/}//h2[contains(concat(' ', normalize-space(@class), ' '), ' js-address-title ')]:<name=normalize-space(.)>

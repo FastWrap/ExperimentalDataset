@@ -1,0 +1,1 @@
+doc('http://www.lloydspharmacy.com/')//input[@id='SimpleSearchForm_SearchTerm']/{"@@SEARCH@@"}/{pressenter [wait=3]/}//div[@id='plpContent']/div[2]/div[3]/div/div/ul/li[6]/a/{click [wait=3]/}//div[@id='plpContent']/div[2]/div[2]/div/div/div/div/div/div[4]/a:<title=normalize-space(.)>

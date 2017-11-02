@@ -1,0 +1,1 @@
+doc('http://www.juegostin.com/jugar/como-memorisar-un-rostro/2.html') //input[@name='TxtBuscador']/{"@@search@@" [wait=1]}/{pressenter [wait=2]/} //div[@id='MenuCentroCentro']/ul/li/h2/a:<title=normalize-space(.)>

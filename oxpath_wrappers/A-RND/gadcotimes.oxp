@@ -1,0 +1,1 @@
+doc('http://www.gadcotimes.com/content/church-news-1?quicktabs_2=0&mini=calendar-date%2F2013-08') //input[@id='edit-search-block-form-1']/{"@@search@@"/} //input[@id='edit-search-block-form-1']/{pressenter /} //div[@id='search-results-wrapper']/dl [./dt/a:<title=normalize-space(.)>] [./dd/p[2]:<info=normalize-space(.)>]

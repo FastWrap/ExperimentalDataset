@@ -1,0 +1,1 @@
+doc('http://cs.atv-club.com/video/mx-vs-atv-alive-supercross-7892') //input[@id='sle_gs_text']/{"@@search@@" /} //form[@id='frm_search_global']/select/{"Uživatelé" /} //form[@id='frm_search_global']/input[2]/{click /} //div[@id='obsah']/center[2]/div/table/tbody/tr[1]/td:<item> [./a:<name=normalize-space(.)>]

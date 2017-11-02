@@ -1,0 +1,1 @@
+doc('http://www.bruchis.com/locations/')/.:<data_area>//div[@id='locationsWrapper']/div:<record> [? .//@href:<detail_link_raw=string(.)> ][? ./div/preceding-sibling::div[last()-1]//text()[last()]:<phone_raw=string(.)> ][? ./div/preceding-sibling::div[last()-1]//text()[1]:<street_address_raw=string(.)> ]

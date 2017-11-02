@@ -1,0 +1,1 @@
+doc('http://teplodivo.ru/kotly-universalnye-s-maksimalnoy-skidkoy-buderus/') //td[@class='search_query']/input/{"@@search@@"}/{pressenter /} //ul[@class='search_result']/li[@class='good_item_search']:<item> [./a[@class='title']:<title=normalize-space(.)>] [.//div[@class='goodprice']/strong:<price=normalize-space(.)>]

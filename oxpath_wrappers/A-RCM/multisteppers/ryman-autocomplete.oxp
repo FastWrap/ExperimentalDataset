@@ -1,0 +1,1 @@
+doc('http://www.ryman.co.uk/')//*[@id='search']/{"@@SEARCH@@" /}//*[@id='sli_autocomplete']/div/div[1]/ul/li[1]/a/{click /}//*[@id='sli_products_wrapper']/ul/li/div/h2/a:<name=normalize-space(.)>

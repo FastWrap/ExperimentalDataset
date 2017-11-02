@@ -1,0 +1,1 @@
+doc('http://www.burgerstreet.com/index.php/locations')/.:<data_area>//div[@id='sl_sidebar']/div:<record> [? ./span/text():<located_within_raw=string(.)> ][? ./span/following-sibling::text()[1]:<locality_raw=string(.)> ]

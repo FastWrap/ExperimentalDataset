@@ -1,0 +1,1 @@
+doc('http://www.seat-italia.it/concessionari.html')//input[contains(concat(' ', normalize-space(@class), ' '), ' dealerLocation ')]/{"@@city@@" /}//input[@type='submit']/{click /}/.:<items>[?.//ol[@id='marker_list']/li/span[1]:<name=normalize-space(.)>][?.//ol[@id='marker_list']/li/p[@class='dealer-phone']:<phone=normalize-space(.)>]

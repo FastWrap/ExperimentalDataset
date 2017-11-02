@@ -1,0 +1,1 @@
+doc('http://www.babinsseafood.com/locations.asp')/.:<data_area>//td:<record>[? .//a/text():<located_within_raw=string(.)> ][? .//br/following-sibling::text()[contains(string(.),'Phone:')]:<phone_raw=string(.)> ][? ./p/preceding-sibling::p[contains(.,'Phone:')]/text()[last()-2]:<street_address_raw=string(.)> ]

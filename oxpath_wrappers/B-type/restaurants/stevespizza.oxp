@@ -1,0 +1,1 @@
+doc('http://www.stevespizza.com/locations/')//table[@id='locations']:<data_area>//tr :<record> [? ./td[1]:<street_address_raw=string(.)> ][? ./td[1]/descendant::text()[last()-1]:<locality_raw=string(.)> ][? ./td[2]/p/em[1]:<phone_raw=string(.)> ][? ./td[2]/p//a[last()-1]/@href:<map_link_raw=string(.)> ]

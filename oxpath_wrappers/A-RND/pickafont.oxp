@@ -1,0 +1,1 @@
+doc('http://www.pickafont.com/fonts/Vertigo-2-BRK.html') //input[@id='search-text']/{"@@search@@" /} //button[@id='search-button']/{click /} /body/div[4]/div[3]/div[2]/div/div[1]:<item> [./div[1]/a[1]:<title=normalize-space(.)>] [./div[1]/a[2]:<author=normalize-space(.)>]

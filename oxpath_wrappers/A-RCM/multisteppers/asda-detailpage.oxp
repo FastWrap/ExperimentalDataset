@@ -1,0 +1,1 @@
+doc('http://www.asda.com/')//*[@id='searchTerms']/{"@@SEARCH@@" /}//*[@id='searchLink']/{click /}//*[@id='listings']/div[1]/div/div/div/div[2]/span[1]/a/span/{click /}//*[@id='itemDetails']/div[1]/h3/span:<code=normalize-space(.)>

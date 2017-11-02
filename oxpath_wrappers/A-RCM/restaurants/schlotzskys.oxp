@@ -1,0 +1,1 @@
+doc('http://www.schlotzskys.com/')//form/input[@name='search[search]']/{"@@LOCATION@@" /}//form/input[@class='futura_book']/{click /}/.:<data_area>//div[@class='results-top']:<record>[? .//div[@class='search-results-city-state-zip']/text():<location_raw=string(.)> ][? .//div[@class='search-results-address1']/text():<street_address_raw=string(.)> ]

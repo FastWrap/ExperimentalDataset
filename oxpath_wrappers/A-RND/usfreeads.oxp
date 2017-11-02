@@ -1,0 +1,1 @@
+doc('http://www.usfreeads.com/3160170-cls.html') //input[@id='q']/{"@@search@@" [wait=1]}/{pressenter [wait=3]/} //body/center/table[2]/tbody/tr/td[2]/table/tbody/tr/td/span/table/tbody/tr/td[@valign='top']:<item> [?./table[2]/tbody/tr/td/span[1]/span/a[2]:<category=normalize-space(.)>] [?./table[2]/tbody/tr/td/span[@class='GreenLinks']:<location=normalize-space(.)>]

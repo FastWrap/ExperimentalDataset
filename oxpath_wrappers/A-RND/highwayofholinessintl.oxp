@@ -1,0 +1,1 @@
+doc('http://highwayofholinessintl.org/?option=com_k2&view=itemlist&task=user&id=1671') //input[@id='mod_search_searchword']/{"@@search@@" /} //div[@id='ja-top-panel']/div/form/input[2]/{click /} //div[@id='ja-content-main']/table/tbody/tr[1]/td/fieldset:<item> [./div[1]/a:<title=normalize-space(.)>] [./div[1]/span[2]:<category=normalize-space(.)>]

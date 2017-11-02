@@ -1,0 +1,1 @@
+doc('http://omsk-osma.ru/nauchnaya-medicinskaya-biblioteka/vystavka-novyh-postupleniy/') //div[@id='imp_search2']/form/input[@name='str']/{"@@search@@"}/{pressenter/} //div[@id='search_result']/a:<title=normalize-space(.)>

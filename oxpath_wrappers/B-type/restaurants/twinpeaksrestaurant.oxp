@@ -1,0 +1,1 @@
+doc('http://www.twinpeaksrestaurant.com/locations/')/.:<data_area>//script/following-sibling::div//a:<record> [? ./span[@class='loc_address']/text()[1]:<street_address_raw=string(.)> ][? ./span[@class='loc_phone']/text():<phone_raw=string(.)> ][? ./span[@class='loc_address']/text()[last()]:<locality_raw=string(.)> ]

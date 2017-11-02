@@ -1,0 +1,1 @@
+doc('http://www.villageinn.com/locations/bystate.php')/.:<data_area>//a[@class='animatedlink']:<record> [? ./@href:<detail_link_raw=string(.)> ]

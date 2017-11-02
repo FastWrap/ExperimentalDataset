@@ -1,0 +1,1 @@
+doc('https://www.jaguar.co.uk/retailer-locator/index.html')//input[contains(@class, 'dealerAutoComplete')]/{"@@SEARCH@@" /}//button[contains(@class, 'masterFormSubmitButton')]/{click /}//div[@class='dealerResults']/div[1]/div/div[1]/ol/li:<result>[./div/div[1]/div[1]/h2:<name=normalize-space(.)>][./div/div[1]/div[3]/div[1]/div/span[1]:<phone=normalize-space(.)>]

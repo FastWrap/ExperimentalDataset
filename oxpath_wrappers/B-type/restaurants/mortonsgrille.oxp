@@ -1,0 +1,1 @@
+doc('http://www.mortonsgrille.com/locations/index.asp')/.:<data_area>//div/following-sibling::section/div:<record> [? .//a/preceding-sibling::br[2]/preceding-sibling::text()[1]:<locality_raw=string(.)> ][? .//@href:<detail_link_raw=string(.)> ]

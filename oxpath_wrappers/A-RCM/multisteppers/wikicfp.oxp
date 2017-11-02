@@ -1,0 +1,1 @@
+doc('http://wikicfp.com')//div[@class='searchbox']/form//input[@name='q']/{"@@search@@"/}//input[@class='searchbox']/{click /}//div[@class='contsec']/table[1]//table[1]//tr[2]/td[1]/a[1]/{click /}//div[@class='contsec']/center/table[1]//tr[3]/td[1]/a[1]:<url=normalize-space(.)>

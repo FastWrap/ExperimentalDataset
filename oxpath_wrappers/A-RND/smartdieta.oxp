@@ -1,0 +1,1 @@
+doc('http://smartdieta.ru/acipol-primenenie-i-ego-analogi.html') //input[@class~='search-field']/{"@@search@@" /} //input[@class~='search-submit']/{click /} //content/div/article//h3/a:<title=normalize-space(.)>

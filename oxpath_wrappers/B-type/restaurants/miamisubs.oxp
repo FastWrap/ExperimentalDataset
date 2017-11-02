@@ -1,0 +1,1 @@
+doc('http://miamisubs.com/locations')/.:<data_area>//div[contains(@class,'address-locations')] :<record> [? ./div[1]/p[1]:<street_address_raw=string(.)> ][? ./div[1]/h4[1]:<locality_raw=string(.)> ][? ./div[1]/h4[2]:<phone_raw=string(.)> ][? ./parent::a/@href:<map_link_raw=string(.)> ]

@@ -1,0 +1,1 @@
+doc('http://bookshop.blackwell.co.uk/bookshop/home/')//*[@id='keyword']/{"@@SEARCH@@"}/{pressenter [wait=3]/}//*[@id='main-content']/section/section/section[1]/div/ul/li[1]/div/div[2]/h4/a/{click [wait=3]/}//td[@itemprop='isbn']:<isbn=normalize-space(.)>
