@@ -25,3 +25,5 @@ Each trace is represented as a JSON pbject with input, output parameters and HTT
 	"content": "STING"
 }
 ```
+
+`raw_data` is the body of the POST request, `data` is parsed `raw_data`. `content` is the body of HTTP response.
