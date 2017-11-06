@@ -1,0 +1,1 @@
+doc('https://www.playstation.com/de-de/explore/playstation-vr/') //input[@id='text-de-DE-toplevelnav-headersearch']/{"@@search@@"}/{pressenter/} //ul[@class='results-list']/li/a[@class='result-link']:<record> [?.//span[@class='result-title']/h3:<title=string(.)>] [?.//p[@class='result-desc']:<description=string(.)>]
